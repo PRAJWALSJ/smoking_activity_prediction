@@ -1,7 +1,8 @@
 # smoking_activity_prediction
 
 Project Aim
-1. The aim of this project is to use Machine Learning algorithms to identify the presence of smoking in the human body based on various body signal inputs. 2. This project also intends to conduct research on the performance comparison of the ensemble methods such as Random Forest, Gradient Boosted Decision Trees, and XGBoost against KNN algorithm.
+1. The aim of this project is to use Machine Learning algorithms to identify the presence of smoking in the human body based on various body signal inputs.
+2. This project also intends to conduct research on the performance comparison of the ensemble methods such as Random Forest, Gradient Boosted Decision Trees, and XGBoost against KNN algorithm.
 
 Research Questions
 1. When compared to the performance of the KNN algorithm based on the principle of euclidean distance, can ensemble algorithms show any substantial difference in their performance in the context of a two-class classification?
