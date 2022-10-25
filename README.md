@@ -1,7 +1,7 @@
 # smoking_activity_prediction
 
 Project Aim
-The aim of this project is to use Machine Learning algorithms to identify the presence of smoking in the human body based on various body signal inputs. This project also intends to conduct research on the performance comparison of the ensemble methods such as Random Forest, Gradient Boosted Decision Trees, and XGBoost against KNN algorithm.
+- The aim of this project is to use Machine Learning algorithms to identify the presence of smoking in the human body based on various body signal inputs. - This project also intends to conduct research on the performance comparison of the ensemble methods such as Random Forest, Gradient Boosted Decision Trees, and XGBoost against KNN algorithm.
 
 Research Questions
 1. When compared to the performance of the KNN algorithm based on the principle of euclidean distance, can ensemble algorithms show any substantial difference in their performance in the context of a two-class classification?
@@ -63,4 +63,4 @@ Results
 - For XGBoost algorithm, the test accuracy is 82.4% with 3,074 misclassications out of total 17,542 datapoints.
 
 Conclusion
-Random Forest algorithm is the most suitable algorithm in determining smoking activity through body signals with the accuracy of 86.4%.
+- Random Forest algorithm is the most suitable algorithm in determining smoking activity through body signals with the accuracy of 86.4%.
