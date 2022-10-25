@@ -52,10 +52,10 @@ Data Pre-Processing
 3. The dataset is split into a training dataset that has 75% of the whole data and the rest 25% were included in the test dataset.
 
 Model Building
-- Machine Learning algorithms like KNN, Random Forest, Gradient Boosted Decision Tree and XGBoost were used for building the model.
-- Hyperparameter tuning is performed for each algorithms to identify the best parameter value.
-- Confusion matrix is used for each algoritms to understand the number of misclassifications on the test dataset.
-- Evaluation metrics like accuracy, precision, recall and f1-score are used to check the performance of each algorithm.
+1. Machine Learning algorithms like KNN, Random Forest, Gradient Boosted Decision Tree and XGBoost were used for building the model.
+2. Hyperparameter tuning is performed for each algorithms to identify the best parameter value.
+3. Confusion matrix is used for each algoritms to understand the number of misclassifications on the test dataset.
+4. Evaluation metrics like accuracy, precision, recall and f1-score are used to check the performance of each algorithm.
 
 Results
 - For KNN algorithm, the test accuracy is 76.8% with 4,067 misclassications out of total 17,542 datapoints.
